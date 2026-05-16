@@ -221,3 +221,8 @@ __marimo__/
 data/
 *.csv
 
+
+# Trained models
+models/*
+!models/.gitkeep
+
